@@ -45,6 +45,7 @@ c) Automated IDE Deployment
 d) Adaptive Input Debugger
 
 4️⃣ What is the focus of Evaluation-Driven Development (EvDD)?
+
 a) Manual coding
 
 b) Evaluating and improving AI outputs✅
