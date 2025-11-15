@@ -27,6 +27,7 @@ c) Avoids tools
 d) Works offline
 
 3️⃣ What does “AIDD” stand for?
+
 a) AI-Integrated Data Design
 b) AI-Driven Development✅
 c) Automated IDE Deployment
