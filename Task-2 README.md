@@ -2,8 +2,7 @@
 
 # 1. Nine Pillars Understanding
 
-# Why is using AI Development Agents (like Gemini CLI) for repetitive setup tasks
-# better for your growth as a system architect?
+# Why is using AI Development Agents (like Gemini CLI) for repetitive setup tasks better for your growth as a system architect?
 
 *Using AI Development Agents like Gemini CLI for repetitive setup tasks is better
 for your growth as a system architect because it frees you from manual, repetitive
@@ -68,7 +67,7 @@ This lets developers add strategic value, ensure maintainable solutions, and foc
 
 # Explain why developers must think in layers and systems instead of raw code.
 
-*Developers must think in layers and systems because software is more than code—it’s interconnected.
+*Developers must think in layers and systems because software is more than code it’s interconnected.
 This approach organizes complexity, enables reuse, ensures scalability, and keeps the system maintainable, unlike focusing on raw code alone.
 
 # 📁 Part B — Practical Task
