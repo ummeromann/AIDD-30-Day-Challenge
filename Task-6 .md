@@ -12,8 +12,7 @@
 <img width="1920" height="1019" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/d6110e8b-371f-43b4-bfb1-525e12030a51" />
 
 # GitHub repo list output
-<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/b9790f5a-f988-483e-9990-5465ef593ac7" />
-
+<img width="1920" height="1013" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/bc74f931-0d19-4341-9b19-a9376177b411" />
 
 
 
